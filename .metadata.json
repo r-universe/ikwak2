@@ -2,13 +2,5 @@
   {
     "package": "aSPU",
     "oncran": true
-  },
-  {
-    "package": "DCLEAR",
-    "oncran": true
-  },
-  {
-    "package": "DrImpute",
-    "oncran": true
   }
 ]
