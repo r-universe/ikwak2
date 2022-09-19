@@ -8,3 +8,13 @@
 	url = https://github.com/ikwak2/aspu
 	shallow = true
 	registered = true
+[submodule "DCLEAR"]
+	path = DCLEAR
+	url = https://github.com/ikwak2/dclear
+	shallow = true
+	registered = true
+[submodule "DrImpute"]
+	path = DrImpute
+	url = https://github.com/ikwak2/drimpute
+	shallow = true
+	registered = true
