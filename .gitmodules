@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "aSPU"]
-	path = aSPU
-	url = https://github.com/ikwak2/aspu
+[submodule "DrImpute"]
+	path = DrImpute
+	url = https://github.com/ikwak2/drimpute
 	shallow = true
 	registered = true
 [submodule "DCLEAR"]
@@ -13,8 +13,8 @@
 	url = https://github.com/ikwak2/dclear
 	shallow = true
 	registered = true
-[submodule "DrImpute"]
-	path = DrImpute
-	url = https://github.com/ikwak2/drimpute
+[submodule "aSPU"]
+	path = aSPU
+	url = https://github.com/ikwak2/aspu
 	shallow = true
 	registered = true
