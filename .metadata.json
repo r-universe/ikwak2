@@ -1,6 +1,6 @@
 [
   {
-    "package": "DrImpute",
+    "package": "aSPU",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "aSPU",
+    "package": "DrImpute",
     "oncran": true
   }
 ]
