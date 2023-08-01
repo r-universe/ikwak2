@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "aSPU"]
-	path = aSPU
-	url = https://github.com/ikwak2/aspu
 [submodule "DCLEAR"]
 	path = DCLEAR
 	url = https://github.com/ikwak2/dclear
 [submodule "DrImpute"]
 	path = DrImpute
 	url = https://github.com/ikwak2/drimpute
+[submodule "aSPU"]
+	path = aSPU
+	url = https://github.com/ikwak2/aspu
